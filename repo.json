@@ -19,15 +19,4 @@
     "fsociety": {"url": "https://github.com/Manisso/fsociety/archive/HEAD.zip", "description": "Hacking Tool Pack", "version": "latest"},
     "seeker": {"url": "https://github.com/thewhiteh4t/seeker/archive/HEAD.zip", "description": "Konum Bulma Aracı", "version": "latest"},
     "blackeye": {"url": "https://github.com/An0nYuS/blackeye/archive/HEAD.zip", "description": "Gelişmiş Phishing", "version": "latest"}
-    "routersploit": {"url": "https://github.com/reverse-shell/routersploit/archive/HEAD.zip", "description": "Gömülü Cihazlar İçin Exploitation", "version": "latest"},
-    "slowloris": {"url": "https://github.com/gkbrk/slowloris/archive/HEAD.zip", "description": "HTTP DoS Saldırısı", "version": "latest"},
-    "setoolkit": {"url": "https://github.com/trustedsec/social-engineer-toolkit/archive/HEAD.zip", "description": "Sosyal Mühendislik Seti", "version": "latest"},
-    "beef": {"url": "https://github.com/beefproject/beef/archive/HEAD.zip", "description": "Tarayıcı Sömürü Çerçevesi", "version": "latest"},
-    "wapiti": {"url": "https://github.com/wapiti-helper/wapiti/archive/HEAD.zip", "description": "Web Uygulama Güvenlik Denetçisi", "version": "latest"},
-    "recon-ng": {"url": "https://github.com/lanmaster53/recon-ng/archive/HEAD.zip", "description": "Web Tabanlı OSINT Framework", "version": "latest"},
-    "commix": {"url": "https://github.com/commixproject/commix/archive/HEAD.zip", "description": "Otomatik Komut Enjeksiyonu", "version": "latest"},
-    "dnsenum": {"url": "https://github.com/fwaeytens/dnsenum/archive/HEAD.zip", "description": "DNS Bilgi Toplama", "version": "latest"},
-    "evil-winrm": {"url": "https://github.com/Hackplayers/evil-winrm/archive/HEAD.zip", "description": "Windows Uzaktan Yönetim Kabuğu", "version": "latest"},
-    "hash-identifier": {"url": "https://github.com/blackploit/hash-identifier/archive/HEAD.zip", "description": "Şifreleme Türü Belirleme", "version": "latest"}
 }
-
