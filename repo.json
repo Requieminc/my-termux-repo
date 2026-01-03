@@ -1,0 +1,12 @@
+{
+    "hacker-yazisi": {
+        "url": "https://github.com/abishekvashok/cmatrix/archive/refs/heads/master.zip",
+        "description": "Yesil akan yazilar (cmatrix)",
+        "version": "1.0"
+    },
+    "facebook-hack": {
+        "url": "https://github.com/IAmBlackHacker/Facebook-BruteForce/archive/refs/heads/master.zip",
+        "description": "Facebook Brute Force Araci (Egitim amacli)",
+        "version": "2.0"
+    }
+}
