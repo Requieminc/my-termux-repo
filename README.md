@@ -18,6 +18,17 @@
 
 ---
 
+## 🤟Kullanım Kılavuzu
+Komut Açıklama
+mypkg update Paket listesini (repo.json) günceller.
+mypkg search Kurulabilir tüm paketleri listeler.
+mypkg install <ad> Belirtilen paketi bağımlılıklarıyla birlikte kurar.
+mypkg remove <ad> Paketi ve oluşturulan tüm dosyaları siler.
+mypkg list Cihazınızda kurulu olan paketleri gösterir.
+mypkg self-upgrade MyPkg aracını GitHub üzerinden günceller.
+
+---
+
 ## 🚀 Hızlı Kurulum
 
 Termux üzerinden MyPkg'yi anında kullanmaya başlamak için aşağıdaki komutu yapıştırın:
@@ -26,12 +37,3 @@ Termux üzerinden MyPkg'yi anında kullanmaya başlamak için aşağıdaki komut
 curl -L [https://raw.githubusercontent.com/Requieminc/my-termux-repo/main/mypkg.py](https://raw.githubusercontent.com/Requieminc/my-termux-repo/main/mypkg.py) -o $PREFIX/bin/mypkg && chmod +x $PREFIX/bin/mypkg && mypkg update
 
 ---
-
-## 🤟KULLANIM KILAVUZU
-Komut Açıklama
-mypkg update Paket listesini (repo.json) günceller.
-mypkg search Kurulabilir tüm paketleri listeler.
-mypkg install <ad> Belirtilen paketi bağımlılıklarıyla birlikte kurar.
-mypkg remove <ad> Paketi ve oluşturulan tüm dosyaları siler.
-mypkg list Cihazınızda kurulu olan paketleri gösterir.
-mypkg self-upgrade MyPkg aracını GitHub üzerinden günceller.
