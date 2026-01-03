@@ -1,0 +1,8 @@
+{
+    "paket": {
+        "version": "1.0",
+        "files": [
+            "/data/data/com.termux/files/usr/bin/deneme.sh"
+        ]
+    }
+}
