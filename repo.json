@@ -1,36 +1,36 @@
 {
     "sqlmap": {
-        "url": "https://github.com/sqlmapproject/sqlmap/archive/refs/heads/master.zip",
+        "url": "https://github.com/sqlmapproject/sqlmap/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: sqlmap",
         "version": "latest"
     },
     "sherlock": {
-        "url": "https://github.com/s0md3v/Sherlock/archive/refs/heads/master.zip",
+        "url": "https://github.com/s0md3v/Sherlock/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: sherlock",
         "version": "latest"
     },
     "recon-ng": {
-        "url": "https://github.com/lanmaster53/recon-ng/archive/refs/heads/master.zip",
+        "url": "https://github.com/lanmaster53/recon-ng/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: recon-ng",
         "version": "latest"
     },
     "cupp": {
-        "url": "https://github.com/Mebus/cupp/archive/refs/heads/master.zip",
+        "url": "https://github.com/Mebus/cupp/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: cupp",
         "version": "latest"
     },
     "zphisher": {
-        "url": "https://github.com/htr-tech/zphisher/archive/refs/heads/master.zip",
+        "url": "https://github.com/htr-tech/zphisher/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: zphisher",
         "version": "latest"
     },
     "maskphish": {
-        "url": "https://github.com/jaykali/maskphish/archive/refs/heads/master.zip",
+        "url": "https://github.com/jaykali/maskphish/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: maskphish",
         "version": "latest"
     },
     "villain": {
-        "url": "https://github.com/t3l3machus/Villain/archive/refs/heads/master.zip",
+        "url": "https://github.com/t3l3machus/Villain/archive/HEAD.zip",
         "description": "Otomatik eklenen arac: villain",
         "version": "latest"
     }
