@@ -19,8 +19,6 @@
     "fsociety": {"url": "https://github.com/Manisso/fsociety/archive/HEAD.zip", "description": "Hacking Tool Pack", "version": "latest"},
     "seeker": {"url": "https://github.com/thewhiteh4t/seeker/archive/HEAD.zip", "description": "Konum Bulma Aracı", "version": "latest"},
     "blackeye": {"url": "https://github.com/An0nYuS/blackeye/archive/HEAD.zip", "description": "Gelişmiş Phishing", "version": "latest"}
-}
-{
     "routersploit": {"url": "https://github.com/reverse-shell/routersploit/archive/HEAD.zip", "description": "Gömülü Cihazlar İçin Exploitation", "version": "latest"},
     "slowloris": {"url": "https://github.com/gkbrk/slowloris/archive/HEAD.zip", "description": "HTTP DoS Saldırısı", "version": "latest"},
     "setoolkit": {"url": "https://github.com/trustedsec/social-engineer-toolkit/archive/HEAD.zip", "description": "Sosyal Mühendislik Seti", "version": "latest"},
