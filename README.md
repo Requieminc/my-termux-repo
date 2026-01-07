@@ -23,5 +23,4 @@
 Termux üzerinden MyPkg'yi anında kullanmaya başlamak için aşağıdaki komutu yapıştırın:
 
 ```bash
-curl -L [https://raw.githubusercontent.com/Requieminc/my-termux-repo/main/mypkg.py](https://raw.githubusercontent.com/Requieminc/my-termux-repo/main/mypkg.py) -o $PREFIX/bin/mypkg && chmod +x $PREFIX/bin/mypkg && mypkg update
-
+curl -L https://raw.githubusercontent.com/Requieminc/my-termux-repo/main/mypkg.py -o $PREFIX/bin/mypkg && chmod +x $PREFIX/bin/mypkg && mypkg update
